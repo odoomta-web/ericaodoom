@@ -224,7 +224,13 @@ a:hover, a:focus-visible {
   border-bottom: 1px solid var(--rule);
 }
 
-.section p { margin: 0 0 1rem; color: var(--ink); }
+
+.section p { 
+  margin: 0 0 1rem; 
+  color: var(--ink);
+  text-align: justify;
+  hyphens: auto;
+}
 .section p:last-child { margin-bottom: 0; }
 
 .section-note {
@@ -339,14 +345,6 @@ a:hover, a:focus-visible {
   font-size: 0.85rem;
   color: var(--ink-soft);
 }
-
-
-.about p,
-.research p {
-  text-align: justify;
-  hyphens: auto;
-}
-
 
 /* ---------------------------------------------------------
    Responsive
