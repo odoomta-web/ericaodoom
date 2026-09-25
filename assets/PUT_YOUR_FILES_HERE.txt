@@ -1,7 +1,0 @@
-Add these two files to this folder (see README.md, step 2):
-
-1. profile.jpg   — your photo
-2. Eric_Odoom_CV.pdf — your CV
-
-Once added, you can delete this text file — it's just a placeholder so this
-folder isn't empty.
